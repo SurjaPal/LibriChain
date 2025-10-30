@@ -46,4 +46,11 @@ This example runs directly on the **Celo Sepolia Testnet** and keeps the system 
 **Celo Sepolia Testnet:**  
 🔗 [View on Blockscout](https://celo-sepolia.blockscout.com/address/0xF939229A9251ED7DCe8266e0C37190d45867b6A2)
 
-**Contract Address:**  
+## 💻 Smart Contract Code
+
+```solidity
+//paste your code
+````
+
+---
+
